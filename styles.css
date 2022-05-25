@@ -20,8 +20,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .photo-box, .text-box {
-    margin: auto;
-    padding: 10px;
+    
     overflow: hidden;
     position: relative;
     height: 250px;
@@ -70,6 +69,8 @@ h1,h2,h3,h4,h5,h6 {
 .text-box {
     background: rgb(49, 49, 49); /* bluish grey */
     color: rgb(255, 190, 94); /* steel blue */
+    margin: auto;
+    padding: 10px;
 }
 
     .text-box-head {
